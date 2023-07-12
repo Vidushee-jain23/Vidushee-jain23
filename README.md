@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vidushee-jain-855a9b1bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vidushee-jain-855a9b1bb/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vidushee-jain-855a9b1bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vidushee-jain-855a9b1bb/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vi_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vi_05" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vi200307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vi200307" height="30" width="40" /></a>
 </p>
